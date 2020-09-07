@@ -1,4 +1,4 @@
-require 'nte/https'
+require 'net/https'
 require 'open-uri'
 require 'json'
 
